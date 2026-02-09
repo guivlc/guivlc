@@ -1,6 +1,6 @@
 ## Currently focused on Java development. I also have experience with C, HTML, and CSS.
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java" />
   </a>
