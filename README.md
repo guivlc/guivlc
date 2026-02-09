@@ -1,8 +1,8 @@
-## Currently focused on Java development. I also have experience with C, HTML, and CSS.
+## Currently focused on Java development. I also have experience with C.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=java,c" />
   </a>
 </p>
 
