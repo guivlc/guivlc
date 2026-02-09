@@ -1,4 +1,4 @@
-## Computer Science student and developer. Currently focused on Java, but open to learning and working with new technologies.
+## Estudante de ciência da computação pela UFAPE, com foco em java mas aberto para aprender novas tecnologias.
 
 <p align="left">
   <a href="https://skillicons.dev">
