@@ -1,6 +1,10 @@
 ## Currently focused on Java development. I also have experience with C, HTML, and CSS.
 
-[![My Skills](https://skillicons.dev/icons?i=javaa&theme=dark)]
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java" />
+  </a>
+</p>
 
 <!--
 **guivlc/guivlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
