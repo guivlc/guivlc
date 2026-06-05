@@ -1,4 +1,4 @@
-## Estudante de ciência da computação pela UFAPE, com foco em java mas aberto para aprender novas tecnologias.
+## Estudante de ciência da computação pela UFAPE, com foco em php mas aberto para aprender novas tecnologias.
 
 <p align="left">
   <a href="https://skillicons.dev">
